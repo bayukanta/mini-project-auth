@@ -1,0 +1,16 @@
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\External.deps.json
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\External.runtimeconfig.json
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\External.runtimeconfig.dev.json
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\External.dll
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\External.pdb
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\DAL.dll
+D:\MiniProject\Mini-Project-Auth\External\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.csproj.AssemblyReference.cache
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.AssemblyInfoInputs.cache
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.AssemblyInfo.cs
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.csproj.CoreCompileInputs.cache
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.csproj.CopyComplete
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.dll
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.pdb
+D:\MiniProject\Mini-Project-Auth\External\obj\Debug\netcoreapp3.1\External.genruntimeconfig.cache
